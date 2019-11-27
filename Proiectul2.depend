@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1574851197 source:d:\poosem1\proiectul2\main.cpp
+	<stdio.h>
+	<iostream>
+	"engine.h"
+	"joctanc.h"
+	"outputt.h"
+	"input.h"
+	<conio.h>
+	<windows.h>
+	<cstring>
+
+1574843277 source:d:\poosem1\proiectul2\engine.cpp
+	"engine.h"
+	<iostream>
+
+1574856067 d:\poosem1\proiectul2\engine.h
+
+1574721701 d:\poosem1\proiectul2\joctanc.h
+	"engine.h"
+
+1574715769 source:d:\poosem1\proiectul2\input.cpp
+	<conio.h>
+	<iostream>
+	"input.h"
+
+1574844011 source:d:\poosem1\proiectul2\joctanc.cpp
+	<iostream>
+	<cstring>
+	"joctanc.h"
+
+1574844012 source:d:\poosem1\proiectul2\outputt.cpp
+	<conio.h>
+	<iostream>
+	"outputt.h"
+	"joctanc.h"
+	<windows.h>
+
+1574754125 d:\poosem1\proiectul2\input.h
+
+1574752499 d:\poosem1\proiectul2\outputt.h
+	"engine.h"
+
