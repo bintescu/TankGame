@@ -16,8 +16,10 @@ int main()
  tanc::motor.init(29,99);
  char nume[30];
  char nume2[30];
- strcpy(nume2,"Esteban");
- strcpy(nume,"Alin");
+ cout<<"\n Introduceti numele tancului nr 1 : ";
+ cin>>nume;
+ cout<<"\n Introduceti numele tancului nr 2: ";
+ cin>>nume2;
  tanc *T=new tanc(nume,97,100,119,115,113,13,6);
  tanc *T2= new tanc(nume2,106,108,105,107,110,13,90);
  intrare.init();
