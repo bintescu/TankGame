@@ -41,3 +41,45 @@
 1574752499 d:\poosem1\proiectul2\outputt.h
 	"engine.h"
 
+1747484521 source:d:\tank game\tankgame\engine.cpp
+	"engine.h"
+	<iostream>
+
+1747584171 d:\tank game\tankgame\engine.h
+
+1747484521 source:d:\tank game\tankgame\input.cpp
+	<conio.h>
+	<iostream>
+	"input.h"
+
+1747484521 d:\tank game\tankgame\input.h
+
+1747484521 source:d:\tank game\tankgame\joctanc.cpp
+	<iostream>
+	<cstring>
+	"joctanc.h"
+
+1747484521 d:\tank game\tankgame\joctanc.h
+	"engine.h"
+
+1747585089 source:d:\tank game\tankgame\main.cpp
+	<stdio.h>
+	<iostream>
+	"engine.h"
+	"joctanc.h"
+	"outputt.h"
+	"input.h"
+	<conio.h>
+	<windows.h>
+	<cstring>
+
+1747484521 d:\tank game\tankgame\outputt.h
+	"engine.h"
+
+1747586320 source:d:\tank game\tankgame\outputt.cpp
+	<conio.h>
+	<iostream>
+	<windows.h>
+	"outputt.h"
+	"joctanc.h"
+
